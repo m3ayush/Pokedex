@@ -70,7 +70,7 @@ body {
     display: block;
     margin: auto;
     background-color: #d50625;
-    z-index: 3;
+    z-index: 0;
     height: 60%;
     width: 162%;
     position: absolute;
